@@ -45,45 +45,21 @@ Here are some ideas to get you started:
     <code><img alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"  width="40" height="40"/></code>
 </p>
 
-
-
 <h3 align="left">The Language and Tools I'm Learning:</h3>
 <p align="left"> 
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-        <img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"  width="40" height="40"/>
-    </a> 
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-        <img alt="rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"  width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="40" height="40"/>
-    </a> 
+    <code><img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"  width="40" height="40"/></code>
+    <code><img alt="rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"  width="40" height="40"/></code>
+    <code><img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/></code>
+    <code><img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="40" height="40"/></code>
 </p>
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="40" height="40"/>
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img alt="seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"  width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img alt="pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"  width="40" height="40"/>
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img alt="scikit_learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"  width="40" height="40"/> 
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img alt="selenium" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"  width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  width="40" height="40"/>
-    </a>
+    <code><img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="40" height="40"/></code>
+    <code><img alt="seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"  width="40" height="40"/></code>
+    <code><img alt="pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"  width="40" height="40"/></code> 
+    <code><img alt="scikit_learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"  width="40" height="40"/></code>
+    <code><img alt="selenium" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"  width="40" height="40"/></code> 
+    <code><img alt="tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  width="40" height="40"/></code>
 </p>
 <p align="left"> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  width="40" height="40"/>
-    </a> 
+    <code><img alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  width="40" height="40"/></code>
 </p>
