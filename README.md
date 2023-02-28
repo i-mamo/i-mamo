@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <code><img  alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></code>
     <code><img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></code>
     <code><img alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/></code>
     <code><img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  width="40" height="40"/></code>
