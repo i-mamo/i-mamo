@@ -62,3 +62,14 @@ Here are some ideas to get you started:
 <p align="left"> 
     <code><img alt="unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  width="40" height="40"/></code>
 </p>
+
+<table>
+    <tr>
+        <td>Env</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/-zsh-555.svg?logo=&style=flat">
+        </td>
+    </tr>
+</table>
