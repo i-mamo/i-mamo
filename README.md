@@ -123,9 +123,9 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/-AWS%20CodePipeline-2E73B8.svg?logo=amazon-aws&style=flat">
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF.svg?logo=github-actions&style=flat">
+<!--             <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF.svg?logo=github-actions&style=flat">
             <img src="https://img.shields.io/badge/-CircleCI-343434.svg?logo=circleci&style=flat">
-            <img src="https://img.shields.io/badge/-Jenkins-D24939.svg?logo=jenkins&style=flat">
+            <img src="https://img.shields.io/badge/-Jenkins-D24939.svg?logo=jenkins&style=flat"> -->
         </td>
     </tr>
     <tr>
