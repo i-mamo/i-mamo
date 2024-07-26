@@ -136,7 +136,7 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat">
         </td>
         <td>
-            <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=flat">
+<!--             <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=flat"> -->
         </td>
     </tr>
     <tr>
